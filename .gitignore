@@ -1,2 +1,2 @@
-.DC_Store
-./data/*.csv
+.DS_Store
+data/*.csv
